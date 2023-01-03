@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/max-consecutive-ones/
+#include<bits/stdc++.h>
 class Solution
 {
 public:
